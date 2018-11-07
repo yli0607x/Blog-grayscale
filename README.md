@@ -1,5 +1,7 @@
 README
 https://medium.com/@yli0607x/how-to-use-bootstrap-themes-on-ruby-on-rails-in-5-minutes-8e6f9542f6d8
+
+
 In this tutorial, I will show you how to configure your Ruby on Rails files to get started with Bootstrap easily in a way that optimizes your web app’s performance. In this tutorial, I will be using the Start Bootstrap Grayscale theme.
 
 1. Create a new project called grayscale using rails and navigate into the project folder
