@@ -1,0 +1,2 @@
+module GrayscaleHelper
+end
